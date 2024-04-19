@@ -1,6 +1,8 @@
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Froent-End Eğitiminde oluşturduğumuz lk repo. İçerisinde bir adet README dosyası, bir adet de index.htmlbarındırıyor
+![github](figures/repo.png)
+
 
 ## Installation 
 
