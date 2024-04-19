@@ -8,10 +8,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Froent-End Eğitiminde oluştur
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-''' bash 
+```bash 
 git clone https://github.com/sumeyrapolat/kodluyoruzilkrepo.git
 
-'''
+```
 
 ## Usage
 
@@ -19,10 +19,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programından açınız.
 
 Linux için:
 
-'''linux 
+```linux
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 
